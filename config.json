@@ -1,27 +1,27 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
-  "wallpaper": "https://mirror.ghproxy.com/https://github.com/fuchenyouzai/youzai/blob/c68edf78447466dfbf3fccb9ba9ab7b28dd2fef5/%E6%82%A0%E5%93%89%E6%9A%97%E5%A4%9C%E5%A3%81%E7%BA%B8.jpg",
-    "lives": [
+  "spider": "https://codeberg.org/youzai/yz/raw/branch/main/custom_spider.jar",
+  "wallpaper": "https://codeberg.org/youzai/yz/raw/branch/main/lib/悠哉暗夜壁纸.jpg",
+  "lives": [
     {
-      "name": "txt",
+      "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/lib/txt.txt",
+      "url": "./lib/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "https://mirror.ghproxy.com/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://mirror.ghproxy.com/https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "m3u",
+      "name": "ipv6",
       "type": 0,
-      "url": "./lib/m3u.m3u",
+      "url": "./lib/ipv6.m3u",
       "playerType": 1,
-      "ua": "=https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/lib/m3u.m3u",
-      "epg": "https://mirror.ghproxy.com/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://mirror.ghproxy.com/https://epg.112114.xyz/logo/{name}.png"
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [
+  "sites":[
     {
       "key": "商店",
       "name": "商店",
