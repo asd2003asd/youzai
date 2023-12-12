@@ -5,7 +5,7 @@
     {
       "name": "yz",
       "type": 0,
-      "url": "./lib/yz.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/yz.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -14,7 +14,7 @@
     {
       "name": "youzai",
       "type": 0,
-      "url": "./lib/youzai.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/youzai.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
