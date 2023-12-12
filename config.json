@@ -1,20 +1,20 @@
 {
-  "spider": "https://codeberg.org/youzai/yz/raw/branch/main/custom_spider.jar",
-  "wallpaper": "https://codeberg.org/youzai/yz/raw/branch/main/lib/悠哉暗夜壁纸.jpg",
+  "spider": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
+  "wallpaper": "https://github.com/fuchenyouzai/youzai/blob/8318abbc250d1f2821f99e24386ee18c4f1877b6/%E6%82%A0%E5%93%89%E6%9A%97%E5%A4%9C%E5%A3%81%E7%BA%B8.jpg",
   "lives": [
     {
-      "name": "live",
+      "name": "txt",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "./lib/txt.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ipv6",
+      "name": "m3u",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./lib/m3u.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
