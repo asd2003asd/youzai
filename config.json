@@ -1,6 +1,26 @@
 {
   "spider": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "lives": [
+    {
+      "name": "txt",
+      "type": 0,
+      "url": "./lib/txt.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "m3u",
+      "type": 0,
+      "url": "./lib/m3u.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "商店",
