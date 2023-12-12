@@ -1,6 +1,6 @@
 {
   "spider": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
-  "wallpaper": "./lib/悠哉暗夜壁纸.jpg",
+  "wallpaper": "悠哉暗夜壁纸.jpg",
     "lives": [
     {
       "name": "txt",
