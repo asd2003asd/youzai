@@ -1,11 +1,11 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
-  "wallpaper": ".lib/悠哉暗夜壁纸.jpg",
+  "wallpaper": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Z1Y2hlbnlvdXphaS95b3V6YWkvbWFpbi9saWIv5oKg5ZOJ5pqX5aSc5aOB57q4LmpwZw==",
   "lives": [
     {
       "name": "直播列表一",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/yz.txt",
+      "url": "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Z1Y2hlbnlvdXphaS95b3V6YWkvbWFpbi9saWIveXoudHh0",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -14,7 +14,7 @@
     {
       "name": "直播列表二",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/youzai.m3u",
+      "url": "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Z1Y2hlbnlvdXphaS95b3V6YWkvbWFpbi9saWIveW91emFpLm0zdQ==",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
