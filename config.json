@@ -1,6 +1,6 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/custom_spider.jar",
-  "wallpaper": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/悠哉暗夜壁纸.jpg",
+  "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/悠哉暗夜壁纸.jpg",
   "lives": [
     {
       "name": "直播列表一",
