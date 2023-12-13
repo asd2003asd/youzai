@@ -1,10 +1,10 @@
 [
   {
-    "name": "推薦",
+    "name": "悠哉永久免费",
     "list": [
       {
-        "url": "https://codeberg.org/youzai/yz/raw/branch/main/%E6%82%A0%E5%93%89.png",
-        "icon": "https://codeberg.org/youzai/yz/raw/branch/main/%E6%82%A0%E5%93%89.png"
+        "url": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/悠哉9.png",
+        "icon": "https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/悠哉.png"
       }
     ]
   },
