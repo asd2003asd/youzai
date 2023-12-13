@@ -8,8 +8,8 @@
       "url": "https://mirror.ghproxy.com/https://github.com/fuchenyouzai/youzai/blob/main/lib/yz.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "https://mirror.ghproxy.com/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://mirror.ghproxy.com/https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites":[
