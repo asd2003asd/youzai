@@ -148,16 +148,7 @@
       "changeable": 1,
       "ext": "./lib/douban.json"
     },
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🐼┃豆瓣┃微信公众号：肥猫宝贝",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/豆瓣推荐.js"
-    },
+    
     {
       "key": "新6V",
       "name": "新6V",
@@ -240,35 +231,6 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bili.json",
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "bili_open",
-      "name": "哔哩貓",
-      "type": 3,
-      "api": "./lib/bili_open.js",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
-        "cookie": ""
-      }
     },
     {
       "key": "酷狗",
