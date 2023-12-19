@@ -62,7 +62,7 @@
                 "筛选": "1"},
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/HeChengChaXiu.jar"
             },
-      {
+	{
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲┃玩偶┃影视",
       "api": "csp_Panda",
@@ -72,9 +72,9 @@
       "timeout": 30,
       "changeable": 0,
       "ext": "./lib/玩偶表哥.json",
-	  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/PandaQ231205.jar"
+     "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/PandaQ231205.jar"
       },
-     {
+      {
       "key": "星星",
       "name": "星星",
       "type": 3,
