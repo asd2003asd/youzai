@@ -46,11 +46,10 @@
        "type": 3,
        "api": "csp_Kuaikan",
        "searchable": 1,
+       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/0723.jar"，    
        "quickSearch": 1,
-       "filterable": 1，
-       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/0723.jar"
-     },
-           {
+       "filterable":1},
+            {
             "key": "996",
             "name": "996影视",
             "type": 3,
