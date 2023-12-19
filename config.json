@@ -41,16 +41,16 @@
       "quickSearch": 1,
       "changeable": 1
      },
-      {
-       "key": "Kuaikan",
-       "name": " 🎴吾爱快看(SP)",
-       "type": 3,
-       "api": "csp_Kuaikan",
-       "searchable": 1,
-       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/0723.jar"，    
-       "quickSearch": 1,
-       "filterable": 1
-     },
+{
+"key": "Kuaikan",
+"name": " 🎴吾爱快看(SP)",
+"type": 3,
+"api": "csp_Kuaikan",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1，
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/0723.jar"
+},
             {
             "key": "996",
             "name": "996影视",
