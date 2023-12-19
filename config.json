@@ -171,7 +171,23 @@
       "changeable": 1,
       "ext": "./lib/douban.json"
     },
-    
+     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./lib/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
     {
       "key": "新6V",
       "name": "新6V",
