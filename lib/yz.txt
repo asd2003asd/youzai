@@ -1,16 +1,3 @@
-台湾,#genre#
-民视第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-民视台湾台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
-民视,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
-民视综艺,video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
-民视旅游,video://https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61
-民视新闻,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-民视影剧,video://https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24
-中视,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
-中视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=4&ch=33
-中视经典,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
-中视菁采台,video://https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
-华视,video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 央视频道,#genre#
 悠哉TV,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 CCTV-1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -2277,6 +2264,19 @@ CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A48989
 北京淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
 
+台湾,#genre#
+民视第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民视台湾台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+民视,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+民视综艺,video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
+民视旅游,video://https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61
+民视新闻,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+民视影剧,video://https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24
+中视,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=4&ch=33
+中视经典,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+中视菁采台,video://https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+华视,video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 
 那年春晚,#genre#
 春晚83,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
