@@ -359,8 +359,8 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "api": "./lib/drpy2.min.js",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "ext": "./lib/jrk.js",
       "style": {
         "type": "list"
@@ -373,8 +373,8 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "api": "./lib/drpy2.min.js",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "ext": "./lib/310直播.js",
       "style": {
         "type": "list"
@@ -388,7 +388,7 @@
       "name": "🐧企鹅┃体育",
       "type": 3,
       "api": "csp_XPath",
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "style": {
         "type": "list"
       },
