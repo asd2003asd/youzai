@@ -340,7 +340,21 @@
       "style": {
         "type": "list"
       }
+    }, 
+     {
+      "key": "sp360",
+      "name": "360影视|解析",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar":"https://github.com/fuchenyouzai/youzai/blob/main/lib/ok.jar",     
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
+	  
      {
       "key": "88js",
       "name": "⚽ 88┃看球",
