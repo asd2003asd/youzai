@@ -312,10 +312,10 @@
       "name": "📔厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
+	     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "playerType": 2,
       "searchable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "quickSearch": 1,
+     "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy33.com/"
     }, 
@@ -324,9 +324,9 @@
       "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
+	      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "changeable": 1,
       "ext": "https://www.hdmyy.com/"
     },
@@ -346,14 +346,14 @@
       "name": "⚽ 88┃看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
+     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
       "style": {
       "type": "list"
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+	     "ext": "./lib/88看球.js"
     },
     {
       "key": "csp_qiumi",
@@ -361,13 +361,15 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "ext": "./lib/jrk.js",
+     
       "style": {
         "type": "list"
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+	     "ext": "./lib/jrk.js"
+	    
     },
     {
       "key": "csp_310直播",
@@ -375,13 +377,14 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "ext": "./lib/310直播.js",
-      "style": {
+       "style": {
         "type": "list"
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+	    "ext": "./lib/310直播.js"
+	    
     },
     {
       "key": "csp_XPath_企鹅体育",
