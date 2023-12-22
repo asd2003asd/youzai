@@ -365,8 +365,8 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "changeable": 0
+      "changeable": 0,
+	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar"
     },
     {
       "key": "csp_qiumi",
@@ -389,8 +389,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/310直播.js",
 	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-	    
-      "style": {
+	"style": {
         "type": "list"
       },
       "searchable": 0,
