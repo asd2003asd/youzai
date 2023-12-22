@@ -282,23 +282,6 @@
       "changeable": 1,
       "ext": "./lib/douban.json"
     },
-     {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bili.json",
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": ""
-      }
-    },
     {
       "key": "新6V",
       "name": "新6V",
@@ -341,62 +324,7 @@
         "type": "list"
       }
     }, 
-     {
-      "key": "sp360",
-      "name": "360影视|解析",
-      "type": 3,
-      "api": "csp_Sp360",
-      "jar":"https://github.com/fuchenyouzai/youzai/blob/main/lib/ok.jar",     
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
     {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
-      "style": {
-      "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar"
-    },
-    {
-      "key": "csp_qiumi",
-      "name": "⚽ Jrs┃球迷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_310直播",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-	"style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-     {
       "key": "csp_XPath_企鹅体育",
       "name": "🐧企鹅┃体育",
       "type": 3,
@@ -410,34 +338,6 @@
       "changeable": 0,
       "ext": "./lib/企鹅直播.json"
     }, 
-	      {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/虎牙直播.js",
-		      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
-	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuchenyouzai/youzai/main/lib/fty.jar",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
     {
       "key": "暴風",
       "name": "暴風",
